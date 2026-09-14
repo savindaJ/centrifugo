@@ -11,10 +11,8 @@ PACKAGES
 FlameGraph
 torch.svg
 protoc-3*
-.env
 /*.env
 .venv
-.vscode
 .idea
 docs/site
 internal/ultra
@@ -28,3 +26,5 @@ vendor/
 *.orig
 tmp/
 .rocks/
+config.bat
+node_modules
